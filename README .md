@@ -1,4 +1,3 @@
-
 #  <p align="center">:robot:  Py-power:robot:  </p>
 
 ## <p align="center">Домашнє завдання #3</p>
